@@ -2,7 +2,7 @@
 #define RN_GoogleSigning_h
 
 #import "RCTBridgeModule.h"
-#import "RCTConvert.h"
+#import <React/RCTConvert.h>
 
 #import <GoogleSignIn/GoogleSignIn.h>
 
